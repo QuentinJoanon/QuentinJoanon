@@ -16,6 +16,7 @@
 ## En apprentissage / perfectionnement
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/-React-000?&logo=React&logoColor=61dafb)](https://developer.mozilla.org/en-US/docs/Web/React)
 [![Node.js](https://img.shields.io/badge/-NodeJs-000?&logo=Node.JS&logoColor=339933)](https://nodejs.org/en/about)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-000?&logo=Wordpress&logoColor=21759B)](https://www.wordpress.com/)
 [![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma&logoColor=F24E1E)](https://www.figma.com/)
